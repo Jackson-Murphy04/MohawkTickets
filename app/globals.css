@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    text-align: center;
+}
+
+.navButton {
+    background-color: blue;
+    border-radius: 20%;
+}
